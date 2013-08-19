@@ -1,6 +1,6 @@
 A Moodle 2.5 theme containing a renderer which will display category and subcategory names as buttons whenever an image is uploaded for that category.
 
-Images for the buttons should be 220 x 86 pixels and named after the categoryid, ie: for categoryid=90, name the image "90.png". Upload the images to the pix/catimg folder.
+Images for the buttons should be 220 x 86 pixels and named after the categoryid, ie: for categoryid=90, name the image "90.png". Upload the images to the pix/catimg folder. Currently this folder contains the images from the Hartpury site, for reference only. Please delete them.
 
 In Moodle settings choose Site Administration -> Front Page -> Front Page Settings ->
 
